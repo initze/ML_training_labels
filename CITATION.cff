@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Nitze"
+  given-names: "Ingmar"
+  orcid: "https://orcid.org/0000-0002-1165-6852"
+  email: ingmar.nitze@awi.de
+  affiliation: Alfred Wegener Institute for Polar and Marine Research
+- family-names: "Barth"
+  given-names: "Sophia"
+  orcid: "0000-0002-7276-7011"
+  affiliation: Alfred Wegener Institute for Polar and Marine Research
+- family-names: "Küpper"
+  given-names: "Jonas"
+  orcid: "0000-0001-6728-7411"
+  affiliation: Alfred Wegener Institute for Polar and Marine Research
+title: "ML training labels"
+type: dataset
+version: 1.0.1
+date-released: 2024-09-16
+url: "https://github.com/initze/ML_training_labels"
+abstract: "created/collected training labels of Retrogressive Thaw Slumps for machine and deep-learning"
+keywords:
+  - "permafrost"
+  - "retrogressive thaw slumps"
+  - "machine learning"
+  - "labels"
+  - "geospatial"
