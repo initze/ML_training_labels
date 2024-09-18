@@ -7,6 +7,11 @@ authors:
   affiliation: Alfred Wegener Institute for Polar and Marine Research
 - family-names: "Barth"
   given-names: "Sophia"
+  orcid: "0000-0002-7276-7011"
+  affiliation: Alfred Wegener Institute for Polar and Marine Research
+- family-names: "Küpper"
+  given-names: "Jonas"
+  orcid: "0000-0001-6728-7411"
   affiliation: Alfred Wegener Institute for Polar and Marine Research
 title: "ML training labels"
 type: dataset
